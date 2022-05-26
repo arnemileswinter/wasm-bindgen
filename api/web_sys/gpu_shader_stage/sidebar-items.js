@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["COMPUTE","The `GPUShaderStage.COMPUTE` const."],["FRAGMENT","The `GPUShaderStage.FRAGMENT` const."],["VERTEX","The `GPUShaderStage.VERTEX` const."]]});
